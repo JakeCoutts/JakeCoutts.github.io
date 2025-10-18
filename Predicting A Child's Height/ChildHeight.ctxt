@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ChildHeight
+comment0.text=\r\n\ <center><h2>The\ Child\ Calculator</h2><center>\r\n\ \r\n\ <p>Write\ a\ program\ that\ prompts\ for\ the\ gender\ of\ the\ child,\ the\ height\ of\ the\r\n\ father,\ and\ the\ height\ of\ the\ mother,\ then\ calculates\ and\ prints\ the\ estimated\ \r\n\ adult\ height\ of\ the\ child.\r\n\ \r\n\ <p>This\ is\ a\ program\ that\ will\ take\ the\ height\ of\ the\ mother,\r\n\ the\ height\ of\ the\ father,\ and\ the\ child's\ gender,\ to\ calculate\ how\r\n\ tall\ the\ child\ will\ be.\r\n\ \r\n\ <P>First,\ the\ user\ will\ enter\ the\ height\ of\ each\ parent\ in\ inches.\r\n\ <p>Then\ they\ will\ enter\ the\ gender\ ofthe\ baby.\r\n\ <p>Lastly\ the\ calculation\ will\ run\ displaying\ the\ estimated\ height\ of\ the\ baby\r\n\ when\ they\ grow\ up.\r\n\r\n\ @author\ Jake\ Coutts\r\n\ @version\ Module\ 6\ /\ Homework\ 6\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
